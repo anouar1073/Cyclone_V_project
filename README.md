@@ -18,7 +18,7 @@ HARDWARE:
 * JTAG peripheral ( for I/O operations with PC)
 * parallel I/O port for LEDs
 
-the program works as follows:
+the program main.c works as follows:
 
   main() functions configures the different interrupts as well as the time, then it initialises the state 
   machine
