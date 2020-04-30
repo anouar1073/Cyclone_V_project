@@ -3,9 +3,9 @@
 ## Structural form in the board
 SW1: right blinker
 SW2: left blinker
-KEY1: alert 1
-KEY2: alter 2
-KEY3: alert 3
+KEY1: fault 1
+KEY2: fault 2
+KEY3: fault 3
 KEY4: Emergency
 SW3: front position lights
 SW4: rear position lights
